@@ -1,0 +1,6 @@
+{
+  "name": "demo",
+  "classname": "JasonDemoAction",
+  "platform": "ios",
+  "description": "just a demo for testing extensions"
+}
